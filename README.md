@@ -14,5 +14,7 @@ Improving the creation of questions by fine tuning a base LLM through Reinfoceme
 - Learning Rate: 5e-5
 - Generation Kwargs: "min_new_tokens": 1, "max_new_tokens": 32
 
-Dataset : https://pytorchnlp.readthedocs.io/en/latest/_modules/torchnlp/datasets/squad.html
-Reference Paper : https://dl.acm.org/doi/pdf/10.1145/3471158.3472240
+###Dataset : 
+- https://pytorchnlp.readthedocs.io/en/latest/_modules/torchnlp/datasets/squad.html
+###Reference Paper :
+- https://dl.acm.org/doi/pdf/10.1145/3471158.3472240
