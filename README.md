@@ -1,7 +1,7 @@
 # Enhancing Question Generation with Novel Reward Functions: Evaluation and Comparison
 
 ## Overview
-
+Improving the creation of questions by fine tuning a base LLM through Reinfocement Learning using new novel reward functions is the focus of "Enhancing Question Generation with Novel Reward Functions: Evaluation and Comparison." This study examines and compares these new approaches to see how well they work and what improvements they bring.
 ## Architecture:
 
 - Pretrained SQUADv2 model
