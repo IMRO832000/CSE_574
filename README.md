@@ -18,3 +18,8 @@ Improving the creation of questions by fine tuning a base LLM through Reinfoceme
 - https://pytorchnlp.readthedocs.io/en/latest/_modules/torchnlp/datasets/squad.html
 ### Reference Paper :
 - https://dl.acm.org/doi/pdf/10.1145/3471158.3472240
+
+<img width="774" alt="image" src="https://github.com/IMRO832000/CSE_574/assets/20886645/5e8c18ec-87e4-4059-9fd2-619bf6aed4bb">
+
+<img width="787" alt="image" src="https://github.com/IMRO832000/CSE_574/assets/20886645/c13d90c6-3ece-4594-aaab-2bef1f044c29">
+
